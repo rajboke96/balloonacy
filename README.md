@@ -1,17 +1,17 @@
-# Shoot Balloons
+# Balloonacy - Shoot Balloons
 
 ### Installation:
 
   Clone **p5-games** repository
   ~~~
-  git clone https://github.com/rajboke2/p5-games.git
+  git clone https://github.com/rajboke96/balloonacy.git
    ~~~
     
-### To start the game:
+### To Play:
 
 1. Go inside the directory for particular game
     ~~~
-    cd p5-games/shootballoons/
+    cd shootballoons/
     ~~~
 2. Open the **index.html** file in browser
 
